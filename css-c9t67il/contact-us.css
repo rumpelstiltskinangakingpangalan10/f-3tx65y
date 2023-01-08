@@ -1,0 +1,116 @@
+
+
+
+.divForm {
+    width: auto;
+    display: flex;
+    height: auto;
+	margin-top: 12em;
+	margin-bottom: 8em;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 50vh;
+	max-width: 760px;
+	padding-left: 1em;
+	padding-right: 1em;
+    padding-top: 2em;
+	padding-bottom: 2em;
+    justify-content: center;
+}
+
+
+#form {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    display: flex;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#lblTitle {
+    font-size: 32px;
+    font-weight: 900;
+    color: #474747;
+    margin-top: 0.5em;
+}
+
+.contactbox {
+    outline: none;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;  
+    border: 1px solid #CCCCCC;
+}
+
+#email {
+    width: 90%;
+    height: 40px;
+    font-size: 16px;
+    color: #474747;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 2px;
+}
+
+#message {
+    height: 260px;
+    width: 90%;
+    resize: none;
+    padding: 1em;
+    font-size: 16px;
+    color: #474747;
+    border-radius: 4px;
+    overflow-y: auto;
+    overflow-x: none;
+}
+
+/* width */
+#message::-webkit-scrollbar {
+	width: 10px;
+    cursor: default;
+  }
+  
+  /* Track */
+#message::-webkit-scrollbar-track {
+	background: white;
+    cursor: default;
+  }
+  
+  /* Handle */
+#message::-webkit-scrollbar-thumb {
+	background: lightgray;
+	border: 1px solid white;
+	border-radius: 100px;
+	transition: 0.2s;
+    cursor: default;
+  }
+  
+  /* Handle on hover */
+#message::-webkit-scrollbar-thumb:hover {
+	background: #979797;
+	border-radius: 100px;
+    cursor: default;
+  }
+
+#submit {
+    outline: none;
+    border: none;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 900;
+    margin-bottom: 0.5em;
+    color: white;
+    background-color: #474747;
+}

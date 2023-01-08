@@ -1,0 +1,103 @@
+
+
+#aboutAuthor {
+    min-height: 23em;
+    height: auto;
+	width: 100%;
+	background-color: #676767;
+    display: block;
+    justify-content: center;
+    padding-top: 4em;
+}
+
+#divAuthor {
+    height: auto;
+    max-width: 760px;
+    min-width: auto;
+    border-radius: 8px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#divProfile {
+
+    height: auto;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    justify-content: center;
+}
+
+#divProfile img {
+    border-radius: 99px;
+	border: 4px solid white;
+}
+
+#descHeader {
+    height: auto;
+    width: auto;
+    color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#descHeader h4 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+#descHeader h5 {
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 500;
+    text-align: center;
+}
+
+#descAbout {
+    padding: 0.6em;
+    font-weight: 500;
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: auto;
+	color: white;
+	width: auto;
+    word-wrap: break-word;
+}
+
+/* width */
+#descAbout::-webkit-scrollbar {
+	width: 6px;
+  }
+  
+  /* Track */
+#descAbout::-webkit-scrollbar-track {
+	background: #474747;
+	border-radius: 100px;
+  }
+  
+  /* Handle */
+#descAbout::-webkit-scrollbar-thumb {
+	background: #777777;
+	
+	border-radius: 100px;
+	transition: 0.2s;
+  }
+  
+  /* Handle on hover */
+#descAbout::-webkit-scrollbar-thumb:hover {
+	background: #878787;
+	border-radius: 100px;
+  }
+
+#descAbout h4 {
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+    letter-spacing: .2px;
+    line-height: 1.6em;   
+    text-align: justify;
+}
+
