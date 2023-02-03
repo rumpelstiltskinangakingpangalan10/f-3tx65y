@@ -170,10 +170,8 @@
 
 
 #divProfile {
-    flex-grow: 1;
     height: auto;
     width: 100px;
-    flex-basis: 100px;
     background-color: green;
 }
 
