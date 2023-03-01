@@ -190,7 +190,7 @@ return response.json();
                 <div class="nextArticle">
                 <div class="nextThumbnail">
                     <img src ="${prevID[1]}">
-                </div>
+                </div><br>
                 <h3>${prevID[3]}</h3>
                 </div>
             `;
