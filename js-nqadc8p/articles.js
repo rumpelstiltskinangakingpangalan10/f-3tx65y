@@ -1,1 +1,204 @@
-var _0x2b08f9=_0x18f0;(function(_0x264087,_0xbf4671){var _0x2bf297=_0x18f0,_0x138973=_0x264087();while(!![]){try{var _0x5d4e33=parseInt(_0x2bf297(0x187))/0x1+-parseInt(_0x2bf297(0x157))/0x2+-parseInt(_0x2bf297(0x173))/0x3*(-parseInt(_0x2bf297(0x183))/0x4)+parseInt(_0x2bf297(0x17e))/0x5+-parseInt(_0x2bf297(0x172))/0x6+parseInt(_0x2bf297(0x15d))/0x7+parseInt(_0x2bf297(0x182))/0x8*(-parseInt(_0x2bf297(0x17a))/0x9);if(_0x5d4e33===_0xbf4671)break;else _0x138973['push'](_0x138973['shift']());}catch(_0x3eeb88){_0x138973['push'](_0x138973['shift']());}}}(_0x3056,0xacdc5));var authLink='';fetch(_0x2b08f9(0x181))[_0x2b08f9(0x15c)](function(_0x150244){return _0x150244['json']();})[_0x2b08f9(0x15c)](function(_0x362fa9){var _0x44d965=_0x2b08f9,_0x45477c=Object[_0x44d965(0x17f)](_0x362fa9)[_0x44d965(0x167)],_0x5d4953=document[_0x44d965(0x164)](_0x44d965(0x186))[_0x44d965(0x16c)];for(var _0x1b3822=_0x45477c;_0x1b3822>=0x1;_0x1b3822--){var _0x2f3adf=_0x362fa9[_0x1b3822];if(_0x2f3adf[0x4]['toLowerCase']()==_0x5d4953[_0x44d965(0x177)]())var _0x59ba28=_0x44d965(0x188)+_0x2f3adf[0x0]+_0x44d965(0x15a)+_0x2f3adf[0x4]['toUpperCase']()+'</a>';}document['getElementById'](_0x44d965(0x15f))[_0x44d965(0x16c)]=_0x59ba28;});var postDate='';function formatDate(_0x5240db,_0x4b4118,_0x471883){var _0x5ac5cc=_0x2b08f9;const _0x16dd3c=[_0x5ac5cc(0x175),_0x5ac5cc(0x17b),'MAR',_0x5ac5cc(0x15b),_0x5ac5cc(0x16a),_0x5ac5cc(0x17d),_0x5ac5cc(0x168),_0x5ac5cc(0x158),_0x5ac5cc(0x15e),_0x5ac5cc(0x162),'NOV',_0x5ac5cc(0x160)];var _0x3cd90c=_0x16dd3c[Number(_0x4b4118)-0x1]+'\x20'+_0x471883+'\x20'+_0x5240db;return postDate=_0x5ac5cc(0x16e)+_0x3cd90c,postDate;}fetch(_0x2b08f9(0x17c))['then'](function(_0x2e913b){return _0x2e913b['json']();})[_0x2b08f9(0x15c)](function(_0x1c9513){var _0x3e350a=_0x2b08f9,_0x56a5ef=Object[_0x3e350a(0x17f)](_0x1c9513)[_0x3e350a(0x167)],_0x500d1d=document[_0x3e350a(0x164)](_0x3e350a(0x179))[_0x3e350a(0x16c)];for(var _0x10f888=_0x56a5ef;_0x10f888>=0x1;_0x10f888--){var _0x1500dd=_0x1c9513[_0x10f888];_0x1500dd[0x3]['toLowerCase']()==_0x500d1d[_0x3e350a(0x177)]()&&formatDate(_0x1500dd[0x7],_0x1500dd[0x5],_0x1500dd[0x6]);}document[_0x3e350a(0x164)]('publishDate')[_0x3e350a(0x16c)]=postDate;}),fetch(_0x2b08f9(0x17c))[_0x2b08f9(0x15c)](function(_0x1257e5){var _0x2f2156=_0x2b08f9;return _0x1257e5[_0x2f2156(0x189)]();})[_0x2b08f9(0x15c)](function(_0x3c2858){var _0x53de43=_0x2b08f9,_0x12f5f9=0x0,_0x592cf7=Object[_0x53de43(0x17f)](_0x3c2858)[_0x53de43(0x167)],_0x8aaa26=document['getElementById'](_0x53de43(0x179))['innerHTML'],_0x37b3a7=document['getElementById']('authorName')[_0x53de43(0x16c)];for(var _0x1439e0=_0x592cf7;_0x1439e0>=0x1;_0x1439e0--){var _0x324db3=_0x3c2858[_0x1439e0];if(_0x324db3[0x3][_0x53de43(0x177)]()==_0x8aaa26[_0x53de43(0x177)]()){_0x37b3a7=_0x324db3[0x8];for(var _0x1439e0=_0x592cf7;_0x1439e0>=0x1;_0x1439e0--){_0x324db3[0x8][_0x53de43(0x177)]()==_0x37b3a7[_0x53de43(0x177)]()&&(_0x12f5f9+=0x1);}}}var _0x426a19=_0x53de43(0x18a)+_0x324db3[0x8]+_0x53de43(0x176)+_0x12f5f9+_0x53de43(0x163);document[_0x53de43(0x164)](_0x53de43(0x174))[_0x53de43(0x16c)]=_0x426a19;}),fetch('https://figureddit.com/store-z7g2sh9/author.json')[_0x2b08f9(0x15c)](function(_0x14c000){var _0x1c1818=_0x2b08f9;return _0x14c000[_0x1c1818(0x189)]();})[_0x2b08f9(0x15c)](function(_0x3e2de2){var _0x450682=_0x2b08f9,_0xd9b7e1=document[_0x450682(0x164)]('authorName')[_0x450682(0x16c)],_0x58090a=Object['keys'](_0x3e2de2)[_0x450682(0x167)];for(var _0x507de9=_0x58090a;_0x507de9>=0x1;_0x507de9--){var _0x3e53a2=_0x3e2de2[_0x507de9];if(_0x3e53a2[0x4][_0x450682(0x177)]()==_0xd9b7e1['toLowerCase']()){authLink=_0x3e53a2[0x0];var _0x2dbff9='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>'+(_0x3e53a2[0x3][_0x450682(0x159)](0x0,0xa6)+_0x450682(0x170))+_0x450682(0x185)+_0x3e53a2[0x4]+_0x450682(0x16d),_0x3c6222=_0x450682(0x16b)+_0x3e53a2[0x5]+_0x450682(0x166);}}return document[_0x450682(0x164)](_0x450682(0x165))[_0x450682(0x16c)]=_0x3c6222,document['getElementById'](_0x450682(0x169))[_0x450682(0x16c)]=_0x2dbff9,authLink;});function goToAuthor(){location['href']=authLink;}function _0x3056(){var _0x153dbb=['articleTitle','9kYbQge','FEB','https://figureddit.com/store-z7g2sh9/home.json','JUNE','6495900jeNjlx','keys','random','https://figureddit.com/store-z7g2sh9/author.json','12569608oDmqVX','124GqNdiD','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22nextArticle\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22nextThumbnail\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src\x20=\x22\x27','</h4><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>More\x20from\x20','authorName','461116WGDyvd','BY\x20<a\x20class=\x22two\x22\x20href=\x22','json','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h4>by\x20','1041536UqFCdd','AUG','slice','\x22\x20id=\x22authorName\x22>','APR','then','6693568OsDpUH','SEPT','publisher','DEC','floor','OCT','\x20Articles\x20Published</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','getElementById','divProfile','\x22\x20width=\x22100px\x22\x20height=\x22100px\x22>','length','JULY','descAbout','MAY','<img\x20src=\x22','innerHTML','..</h5>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','PUBLISHED\x20','indexOf','...','querySelector','400626zLrahz','14541sIRBbp','descHeader','JAN','</h4>\x20&nbsp;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h5>\x20|\x20','toLowerCase','#readNext'];_0x3056=function(){return _0x153dbb;};return _0x3056();}var randArray=[];function genRandom(_0x5a377e,_0x50fcf1){var _0xf133a6=_0x2b08f9,_0x1e5ad7=_0x50fcf1-_0x5a377e+0x1,_0x4c8805=Math[_0xf133a6(0x180)]()*_0x1e5ad7,_0x4ca6e1=Math[_0xf133a6(0x161)](_0x4c8805)+_0x5a377e;return _0x4ca6e1;}function _0x18f0(_0x314859,_0x15d612){var _0x305620=_0x3056();return _0x18f0=function(_0x18f039,_0x3824f7){_0x18f039=_0x18f039-0x157;var _0x4bc8e3=_0x305620[_0x18f039];return _0x4bc8e3;},_0x18f0(_0x314859,_0x15d612);}fetch(_0x2b08f9(0x17c))[_0x2b08f9(0x15c)](function(_0x51645a){return _0x51645a['json']();})[_0x2b08f9(0x15c)](function(_0x52c5a4){var _0x435956=_0x2b08f9,_0x1e89fc='',_0x45a132=Object[_0x435956(0x17f)](_0x52c5a4)[_0x435956(0x167)];while(randArray['length']<0x4){var _0x3fb366=genRandom(0x1,_0x45a132);randArray[_0x435956(0x16f)](_0x3fb366)===-0x1&&(randArray['push'](_0x3fb366),prevID=_0x52c5a4[_0x3fb366],_0x1e89fc+=_0x435956(0x184)+prevID[0x1]+'\x27\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>'+prevID[0x3]+'</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20');}document[_0x435956(0x171)](_0x435956(0x178))[_0x435956(0x16c)]=_0x1e89fc;});
+var authLink = "";
+
+//-----------GENERATE AUTHOR DETAILS---------------
+
+//revise author's name + link after title
+
+fetch("https://figureddit.com/store-z7g2sh9/author.json") //only fetch to change author's hyperlink
+.then(function(response){
+return response.json();
+})
+.then(function(data){
+        
+        
+        var max = Object.keys(data).length;
+        var author = document.getElementById("authorName").innerHTML;
+        
+        for (var i = max; i >= 1; i-- ) {
+
+            var prevID = data[i];
+
+            if (prevID[4].toLowerCase() == author.toLowerCase()) {
+                
+                var authorLink = `BY <a class="two" href="${prevID[0]}" id="authorName">${prevID[4].toUpperCase()}</a>`;
+            }
+        }
+
+        document.getElementById("publisher").innerHTML = authorLink;
+    
+    }
+        
+);
+
+//------------------DATE FORMAT----------------
+var postDate = "";
+function formatDate(yyyy, mm, dd) {
+	const month = ["JAN","FEB","MAR","APR","MAY","JUNE","JULY","AUG","SEPT","OCT","NOV","DEC"];
+	var published = month[Number(mm)-1] + " " + dd + " " + yyyy;
+	postDate = "PUBLISHED " + published;
+	
+    return postDate;
+}
+
+//------------------PUBLISH DATE---------------------
+
+fetch("https://figureddit.com/store-z7g2sh9/home.json") //only fetch published date
+.then(function(response){
+return response.json();
+})
+.then(function(data){
+
+        var max = Object.keys(data).length;
+        var title = document.getElementById("articleTitle").innerHTML;
+
+        for (var i = max; i >= 1; i-- ) {
+            
+            var prevID = data[i];
+
+            if (prevID[3].toLowerCase() == title.toLowerCase()) {
+                
+                formatDate(prevID[7], prevID[5], prevID[6]);
+                
+            } 
+        }
+
+        document.getElementById("publishDate").innerHTML = postDate;
+    }
+);
+
+
+
+ //-----------------COUNT ARTICLES-------------------
+
+fetch("https://figureddit.com/store-z7g2sh9/home.json") //only fetch to count articles
+.then(function(response){
+return response.json();
+})
+.then(function(data){
+        
+        var articleCount = 0;
+        var max = Object.keys(data).length;
+        var title = document.getElementById("articleTitle").innerHTML;
+        var author = document.getElementById("authorName").innerHTML;
+        
+        for (var i = max; i >= 1; i-- ) {
+
+            var prevID = data[i];
+
+            if (prevID[3].toLowerCase() == title.toLowerCase()) {
+                author = prevID[8];
+
+                for (var i = max; i >= 1; i-- ) {
+
+                    if (prevID[8].toLowerCase() == author.toLowerCase()) {
+                
+                        articleCount+=1;
+                    }
+                }
+            }
+        }
+        
+        var header = `
+                <h4>by ${prevID[8]}</h4> &nbsp;
+                <h5> | ${articleCount} Articles Published</h5>
+                `;
+
+        document.getElementById("descHeader").innerHTML = header;
+    }
+);
+
+
+fetch("https://figureddit.com/store-z7g2sh9/author.json") //fetch all and post all author's details
+.then(function(response){
+return response.json();
+})
+.then(function(data){
+        
+        var author = document.getElementById("authorName").innerHTML;
+
+        var max = Object.keys(data).length;
+        
+        for (var i = max; i >= 1; i-- ) {
+
+            var prevID = data[i];
+            
+            if(prevID[4].toLowerCase() == author.toLowerCase()) {
+
+                authLink = prevID[0];
+
+                var descAbout = `
+                <h4>${prevID[3].slice(0,166) + "..."}</h4><br>
+                <h5>More from ${prevID[4]}..</h5>
+                `;
+
+                var profilePic = `<img src="${prevID[5]}" width="100px" height="100px">`;
+            }
+        }
+
+        document.getElementById("divProfile").innerHTML = profilePic;
+        document.getElementById("descAbout").innerHTML = descAbout;
+
+        return authLink;
+    }
+);
+
+
+// on click go to author's page
+
+function goToAuthor() {
+
+    location.href = authLink;
+}
+
+//---------GENERATE RANDOM RELATED ARTICLES----------
+
+var randArray = [];
+
+//generate random number
+function genRandom(min, max) {
+
+    var step1 = max-min+1;
+    var step2 = Math.random() * step1;
+    var result = Math.floor(step2) + min;
+
+    return result;
+}
+
+fetch("https://figureddit.com/store-z7g2sh9/home.json")
+.then(function(response){
+return response.json();
+})
+.then(function(data){
+        
+        var append = "";
+        var max = Object.keys(data).length;
+        
+        while(randArray.length < 4) {
+
+            //generate number from 0-max JSON objects---
+            var r = genRandom(1,max);
+
+            //check if random number already exist in array---
+
+            if(randArray.indexOf(r) === -1) {
+                
+                randArray.push(r);
+
+                prevID = data[r];
+
+                append += `
+                <div class="nextArticle">
+                <div class="nextThumbnail">
+                    <img src ="${prevID[1]}">
+                </div>
+                <h3>${prevID[3]}</h3>
+                </div>
+            `;
+
+            }
+        }
+
+        document.querySelector("#readNext").innerHTML = append;
+        }
+
+);
