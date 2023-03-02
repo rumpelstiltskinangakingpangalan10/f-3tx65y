@@ -187,12 +187,13 @@ return response.json();
                 prevID = data[r];
 
                 append += `
-                <a href="${prevID[0]}"><div class="nextArticle">
+                <div class="nextArticle">
+                <a href="${prevID[0]}">
                 <div class="nextThumbnail">
                     <img src ="${prevID[1]}">
                 </div><br>
-                <h3>${prevID[3]}</h3>
-                </div></a>
+                <h3>${prevID[3]}</h3></a>
+                </div>
             `;
 
             }
